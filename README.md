@@ -63,10 +63,6 @@ Usefull when dealing with long strings (sentences) which vary from language to l
 
 # Example
 
-```html
-
-```
-
 ---
 
 ## License
