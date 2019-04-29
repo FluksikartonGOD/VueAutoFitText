@@ -15,14 +15,8 @@
 </template>
 
 <script>
-import { VueAutoFitText, VueAutoTruncateText } from './components/VueAutoFitText/index.js'
-
 export default {
   name: 'app',
-  components: {
-    VueAutoFitText,
-    VueAutoTruncateText,
-  },
   data() {
     return {
       autoFitText: '1',
